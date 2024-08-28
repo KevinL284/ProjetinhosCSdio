@@ -1,0 +1,7 @@
+E:\CCOKevin\Cursos_KL\CSharp_Curso\Codigos\LogicaProg\SistemaEstacionamento\bin\Debug\SistemaEstacionamento.exe.config
+E:\CCOKevin\Cursos_KL\CSharp_Curso\Codigos\LogicaProg\SistemaEstacionamento\bin\Debug\SistemaEstacionamento.exe
+E:\CCOKevin\Cursos_KL\CSharp_Curso\Codigos\LogicaProg\SistemaEstacionamento\bin\Debug\SistemaEstacionamento.pdb
+E:\CCOKevin\Cursos_KL\CSharp_Curso\Codigos\LogicaProg\SistemaEstacionamento\obj\Debug\SistemaEstacionamento.csproj.AssemblyReference.cache
+E:\CCOKevin\Cursos_KL\CSharp_Curso\Codigos\LogicaProg\SistemaEstacionamento\obj\Debug\SistemaEstacionamento.csproj.CoreCompileInputs.cache
+E:\CCOKevin\Cursos_KL\CSharp_Curso\Codigos\LogicaProg\SistemaEstacionamento\obj\Debug\SistemaEstacionamento.exe
+E:\CCOKevin\Cursos_KL\CSharp_Curso\Codigos\LogicaProg\SistemaEstacionamento\obj\Debug\SistemaEstacionamento.pdb
